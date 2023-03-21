@@ -10,11 +10,11 @@
 * [pinia](https://pinia.vuejs.org/)
 
 ### 4) vue3.x 配套UI库（个人推荐Naive UI）
-| UI库名称       | 访问地址         | 备注   |
+| UI库名称       | 访问地址          | 备注   |
 | :------------- | :--------------: | :------ |
-| Naive UI | https://www.naiveui.com/zh-CN/os-theme | 在 Twitter 上发布，短期内迅速崛起，GitHub 上获得了 5.1k 颗星 |
-| Ant Design Vue | https://2x.antdv.com/components/overview/ | 比较成熟，用户界面简单 |
-| Element+ | https://element-plus.org/zh-CN/#/zh-CN | 自vue2.x初期就已名声在外 |
-| Vuestic | https://vuestic.dev/ | 模版漂亮，组件及接口灵活 |
-| PrimeVUE | https://primevue.org/ | 最早支持vue3.x的框架之一 |
-| plain-ui | http://plain-pot.gitee.io/plain-ui-doc/#components%2Ftag | 个人开源库 |
+| Naive UI | 官网：<br>https://www.naiveui.com/zh-CN/os-theme<br>使用案例：<br>http://aw.vueadminwork.com/#/system/user | 在 Twitter 上发布，短期内迅速崛起，GitHub 上获得了 5.1k 颗星 |
+| Ant Design Vue | 官网：<br>https://2x.antdv.com/components/overview/<br>使用案例：<br>https://preview.pro.antdv.com/dashboard/workplace | 比较成熟，用户界面简单 |
+| Element+ | 官网：<br>https://element-plus.org/zh-CN/#/zh-CN<br>使用案例：<br>https://admin.youlai.tech/#/dashboard | 自vue2.x初期就已名声在外 |
+| Vuestic | 官网：<br>https://vuestic.dev/<br>使用案例：<br>- | 模版漂亮，组件及接口灵活 |
+| PrimeVUE | 官网：<br>https://primevue.org/<br>使用案例：<br>- | 最早支持vue3.x的框架之一 |
+| plain-ui | 官网：<br>http://plain-pot.gitee.io/plain-ui-doc/#components%2Ftag<br>使用案例：<br>- | 个人开源库 |
